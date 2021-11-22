@@ -1,5 +1,8 @@
 # Ofir Scripts
 
+## Installation
+```pip install -r requirements.txt```
+
 ## secrets.json
 Create `secrets.json` as `secrets_example.json` and fill your desired keys.
 
